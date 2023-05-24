@@ -17,3 +17,8 @@ biografia = crear_biografia(nombre, fecha_nacimiento, lugar_nacimiento, descripc
 # Imprimir la biografía
 print("\n--- Biografía ---")
 print(biografia)
+
+    #Santiago_Enriquez
+    #Biografia
+    #IEM_ESCUELA_NORMAL_PASTO
+    #11-1
