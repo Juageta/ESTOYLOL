@@ -19,7 +19,7 @@ def obtener_colores_bandera(pais):
 pais = input("Ingresa el nombre de un país: ")
 obtener_colores_bandera(pais)
 
-    #Yulian_Castañeda
+    #Yulian_Castaneda
     #Banderas
     #IEM_ESCUELA_NORMAL_PASTO
     #11-1
